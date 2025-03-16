@@ -9597,6 +9597,15 @@ display: flex;
 justify-content: center;
 align-items: center;
 }
+.page-header-destination {
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), 
+  url("../img/destination-bg.jpg") no-repeat center center; 
+background-size: cover;
+height: 75vh; /* Set the height */
+display: flex;
+justify-content: center;
+align-items: center;
+}
 
 .destination-item img {
   transition: .5s;
